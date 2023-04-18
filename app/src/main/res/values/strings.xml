@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">juegos-preguntas</string>
+    <string name="pregunta1">cuantos meses tiene 28 dias</string>
+    <string name="pregunta2">cuantos planetas hay en el sistema solar</string>
+    <string name="pregunta3">cuales el rio mas largo del planeta</string>
+    <string name="pregunta4">cuantos dias hay en un año</string>
+    <string name="respuesta">toda la respuesta es:</string>
+
+</resources>
