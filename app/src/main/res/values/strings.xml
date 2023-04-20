@@ -5,5 +5,14 @@
     <string name="pregunta3">cuales el rio mas largo del planeta</string>
     <string name="pregunta4">cuantos dias hay en un año</string>
     <string name="respuesta">toda la respuesta es:</string>
+    <string name="title_activity_main6">MainActivity6</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 </resources>

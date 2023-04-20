@@ -63,9 +63,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-   // public void siguiente1(View view){
-       // Intent siguiente1 =new Intent(this,MainActivity2.class);
-        //startActivity(siguiente1);
-    //}
+
 
 }
